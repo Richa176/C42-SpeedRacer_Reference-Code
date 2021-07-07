@@ -242,7 +242,7 @@ class Game {
         carsAtEnd: 0,
         playerCount: 0,
         gameState: 0,
-        palyers: {}
+        players: {}
       });
       window.location.reload();
     });
